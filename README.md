@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Matyas, take a look at my [blog](https://hyblm.dev)
+- 👋 Hi, I’m Matyas, a CS student at UPOL
 - 👀 I’m interested in Linux and programing
-- 🌱 I’m currently learning Rust and Lisp
+    - take a look at my [blog](https://hyblm.dev)
+- 🌱 I’m currently learning C, Rust and Lisp
 - 📫 You can reach me through my university email adress matyas.hybl01@upol.cz
