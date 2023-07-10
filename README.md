@@ -5,8 +5,6 @@
 * 🚀  I'm currently working on [new webpage for Udržitelný Palacký](http://udrzitelny.vercel.app)
 * 🧠  I'm learning Rust, Lisp, Javasript and Tailwind
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/hyblm"><img src="https://github-readme-stats.vercel.app/api?username=hyblm&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="hyblm's GitHub stats" /></a>
 
 <p align="left">
